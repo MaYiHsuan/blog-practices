@@ -4,3 +4,4 @@
 
 ## Hello! 👋
 Welcome to Cindy's front-end coding challenge. I randomly tackle different projects on Frontend Mentor. Thank you for watching.
+You can view the live demo [here](https://mayihsuan.github.io/blog-practices/).
